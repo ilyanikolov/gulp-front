@@ -1,0 +1,37 @@
+// Brakepoints
+$global-mobile-brakepoint: "min-width: 400px" !default;
+$global-phablet-brakepoint: "min-width: 550px" !default;
+$global-tablet-brakepoint: "min-width: 750px" !default;
+$global-desktop-brakepoint: "min-width: 1000px" !default;
+$global-hddesktop-brakepoint: "min-width: 1200px" !default;
+
+// Fonts
+$global-font: 400 1.6rem/1.6 'Roboto', sans-serif !default;
+$global-font-color: #2f2f2f !default;
+$global-headers-font: 400 1.6rem/1.6 'Raleway', sans-serif !default;
+$global-headers-font-color: #2f2f2f !default;
+
+// Text color
+$global-text-color: #1f2d3d !default;
+
+// Borders color
+$global-border-color: #dfe6ec !default;
+
+// Border radius
+$global-border-radius: 3px !default;
+
+// Other staff
+// Links
+$global-link-color: #2a9bfa !default;
+
+// Colors
+$global-white-color: #fafafa !default;
+
+$global-succes-color: #32d296 !default;
+$global-warning-color: #FAC25A !default;
+$global-error-color: #F05053 !default;
+
+$global-padding-top: 15px !default;
+$global-padding-left: 20px !default;
+
+$global-table-head-bg: #eef1f6 !default;

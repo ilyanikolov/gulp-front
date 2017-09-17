@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	outline: none;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font: $global-font;
+	color: $global-font-color;
+}
